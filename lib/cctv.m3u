@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
-https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.ts
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-1.png" group-title="央视",CCTV-1 综合
 https://iptv.clun.top/live/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-2.png" group-title="央视",CCTV-2 财经
@@ -125,8 +123,6 @@ https://iptv.clun.top/live/xizangws.m3u8
 https://iptv.clun.top/live/cetv1.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/新疆卫视.png" group-title="卫视",新疆卫视
 https://iptv.clun.top/live/xinjiangws.m3u8
-#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
-https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
 #EXTINF:-1 tvg-name="吉尔超联 FC康德 vs 纳夫兹可克阿达" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/63a4b5337d54358cf0eb7d83aa62213f.gif" group-title="足球",吉尔超联 FC康德 vs 纳夫兹可克阿达
 https://zq.clun.top/football/8394493
 #EXTINF:-1 tvg-name="捷丙 维特科维斯 vs 斯洛瓦科B队" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="足球",捷丙 维特科维斯 vs 斯洛瓦科B队
