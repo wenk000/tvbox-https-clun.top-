@@ -1,143 +1,125 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-1.png" group-title="央视",CCTV-1 综合
-https://iptv.clun.top/live/cctv1.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv1.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-2.png" group-title="央视",CCTV-2 财经
-https://iptv.clun.top/live/cctv2.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv2.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-3.png" group-title="央视",CCTV-3 综艺
-https://iptv.clun.top/live/cctv3.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv3.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-4.png" group-title="央视",CCTV-4 中文国际
-https://iptv.clun.top/live/cctv4.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv4.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="央视",CCTV-5 体育
-https://iptv.clun.top/live/cctv5.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv5.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="央视",CCTV-5+ 体育赛事
-https://iptv.clun.top/live/cctv5plus.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv5plus.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-6.png" group-title="央视",CCTV-6 电影
-https://iptv.clun.top/live/cctv6.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv6.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-7.png" group-title="央视",CCTV-7 国防军事
-https://iptv.clun.top/live/cctv7.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv7.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-8.png" group-title="央视",CCTV-8 电视剧
-https://iptv.clun.top/live/cctv8.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv8.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-9.png" group-title="央视",CCTV-9 纪录
-https://iptv.clun.top/live/cctv9.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv9.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-10.png" group-title="央视",CCTV-10 科教
-https://iptv.clun.top/live/cctv10.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv10.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-11.png" group-title="央视",CCTV-11 戏曲
-https://iptv.clun.top/live/cctv11.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv11.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-12.png" group-title="央视",CCTV-12 社会与法
-https://iptv.clun.top/live/cctv12.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv12.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-13.png" group-title="央视",CCTV-13 新闻
-https://iptv.clun.top/live/cctv13.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv13.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-14.png" group-title="央视",CCTV-14 少儿
-https://iptv.clun.top/live/cctv14.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv14.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-15.png" group-title="央视",CCTV-15 音乐
-https://iptv.clun.top/live/cctv15.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv15.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-16.png" group-title="央视",CCTV-16 奥林匹克
-https://iptv.clun.top/live/cctv16hd.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv16hd.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-16 奥林匹克4K" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV164K.png" group-title="央视",CCTV-16 奥林匹克4K
-https://iptv.clun.top/live/cctv164k.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv164k.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-17.png" group-title="央视",CCTV-17 农业农村
-https://iptv.clun.top/live/cctv17.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv17.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-4K 超高清" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-4K.png" group-title="央视",CCTV-4K 超高清
-https://iptv.clun.top/live/cctv4k.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv4k.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV-8K 超高清" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-8K.png" group-title="央视",CCTV-8K 超高清
-https://iptv.clun.top/live/cctv8k.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctv8k.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CGTN 英语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTN.png" group-title="央视",CGTN 英语
-https://iptv.clun.top/live/cgtn.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cgtn.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CGTN 法语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNfr.png" group-title="央视",CGTN 法语
-https://iptv.clun.top/live/cgtnfayu.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cgtnfayu.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CGTN 俄语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNru.png" group-title="央视",CGTN 俄语
-https://iptv.clun.top/live/cgtneyu.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cgtneyu.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CGTN 阿拉伯语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNar.png" group-title="央视",CGTN 阿拉伯语
-https://iptv.clun.top/live/cgtnalaboyu.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cgtnalaboyu.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CGTN 西班牙语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNsp.png" group-title="央视",CGTN 西班牙语
-https://iptv.clun.top/live/cgtnxibanyayu.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cgtnxibanyayu.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CGTN 纪录" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNdoc.png" group-title="央视",CGTN 纪录
-https://iptv.clun.top/live/cgtnwaiyujilu.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cgtnwaiyujilu.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV 风云剧场" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/风云剧场.png" group-title="央视",CCTV 风云剧场
-https://iptv.clun.top/live/cctvfengyunjuchang.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctvfengyunjuchang.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV 第一剧场" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/第一剧场.png" group-title="央视",CCTV 第一剧场
-https://iptv.clun.top/live/cctvdiyijuchang.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctvdiyijuchang.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="CCTV 怀旧剧场" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/怀旧剧场.png" group-title="央视",CCTV 怀旧剧场
-https://iptv.clun.top/live/cctvhuaijiujuchang.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cctvhuaijiujuchang.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/北京卫视.png" group-title="卫视",北京卫视
-https://iptv.clun.top/live/beijingws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/beijingws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/江苏卫视.png" group-title="卫视",江苏卫视
-https://iptv.clun.top/live/jiangsuws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/jiangsuws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/东方卫视.png" group-title="卫视",东方卫视
-https://iptv.clun.top/live/dongfangws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/dongfangws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/浙江卫视.png" group-title="卫视",浙江卫视
-https://iptv.clun.top/live/zhejiangws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/zhejiangws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖南卫视.png" group-title="卫视",湖南卫视
-https://iptv.clun.top/live/hunanws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/hunanws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖北卫视.png" group-title="卫视",湖北卫视
-https://iptv.clun.top/live/hubeiws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/hubeiws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/广东卫视.png" group-title="卫视",广东卫视
-https://iptv.clun.top/live/guangdongws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/guangdongws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/广西卫视.png" group-title="卫视",广西卫视
-https://iptv.clun.top/live/guangxiws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/guangxiws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://iptv.clun.top/live/heilongjiangws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/heilongjiangws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/海南卫视.png" group-title="卫视",海南卫视
-https://iptv.clun.top/live/hainanws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/hainanws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/重庆卫视.png" group-title="卫视",重庆卫视
-https://iptv.clun.top/live/chongqingws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/chongqingws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/深圳卫视.png" group-title="卫视",深圳卫视
-https://iptv.clun.top/live/shenzhenws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/shenzhenws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/四川卫视.png" group-title="卫视",四川卫视
-https://iptv.clun.top/live/sichuanws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/sichuanws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/河南卫视.png" group-title="卫视",河南卫视
-https://iptv.clun.top/live/henanws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/henanws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/东南卫视.png" group-title="卫视",东南卫视
-https://iptv.clun.top/live/fujiandongnanws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/fujiandongnanws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/贵州卫视.png" group-title="卫视",贵州卫视
-https://iptv.clun.top/live/guizhouws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/guizhouws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/江西卫视.png" group-title="卫视",江西卫视
-https://iptv.clun.top/live/jiangxiws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/jiangxiws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://iptv.clun.top/live/liaoningws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/liaoningws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/安徽卫视.png" group-title="卫视",安徽卫视
-https://iptv.clun.top/live/anhuiws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/anhuiws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/河北卫视.png" group-title="卫视",河北卫视
-https://iptv.clun.top/live/hebeiws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/hebeiws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/山东卫视.png" group-title="卫视",山东卫视
-https://iptv.clun.top/live/shandongws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/shandongws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/天津卫视.png" group-title="卫视",天津卫视
-https://iptv.clun.top/live/tianjinws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/tianjinws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/吉林卫视.png" group-title="卫视",吉林卫视
-https://iptv.clun.top/live/jilinws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/jilinws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/陕西卫视.png" group-title="卫视",陕西卫视
-https://iptv.clun.top/live/shannxiws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/shannxiws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-https://iptv.clun.top/live/ningxiaws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/ningxiaws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://iptv.clun.top/live/neimengguws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/neimengguws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/云南卫视.png" group-title="卫视",云南卫视
-https://iptv.clun.top/live/yunnanws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/yunnanws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/山西卫视.png" group-title="卫视",山西卫视
-https://iptv.clun.top/live/shanxiws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/shanxiws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/青海卫视.png" group-title="卫视",青海卫视
-https://iptv.clun.top/live/qinghaiws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/qinghaiws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/西藏卫视.png" group-title="卫视",西藏卫视
-https://iptv.clun.top/live/xizangws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/xizangws.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="中国教育电视台一套" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/中国教育电视台一套.png" group-title="卫视",中国教育电视台一套
-https://iptv.clun.top/live/cetv1.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
+https://iptv.clun.top/live/cetv1.m3u8?prefix=https://iptv.clun.top
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/新疆卫视.png" group-title="卫视",新疆卫视
-https://iptv.clun.top/live/xinjiangws.m3u8?prefix=https%3A%2F%2Fiptv.clun.top
-#EXTINF:-1 tvg-name="吴越杯 金华队 vs 温州队" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/f873e2ba0b39dfe47bb694aa2f57cf12.png" group-title="足球",吴越杯 金华队 vs 温州队
-https://iptv.clun.top/football/8391857
-#EXTINF:-1 tvg-name="哈萨克甲 拖雷斯 vs 阿斯塔纳B队" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/29d9b5a07b9ef4c89588e271a263027d.png" group-title="足球",哈萨克甲 拖雷斯 vs 阿斯塔纳B队
-https://iptv.clun.top/football/8353640
-#EXTINF:-1 tvg-name="哈萨克甲 阿克托比B队 vs 奥杜斯基克" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/29d9b5a07b9ef4c89588e271a263027d.png" group-title="足球",哈萨克甲 阿克托比B队 vs 奥杜斯基克
-https://iptv.clun.top/football/8353637
-#EXTINF:-1 tvg-name="俄乙A 斯塔夫罗波尔迪纳摩 vs 圣彼得堡泽尼特B队" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/3f661a27c07579a41bfb41e1bc7723c3.png" group-title="足球",俄乙A 斯塔夫罗波尔迪纳摩 vs 圣彼得堡泽尼特B队
-https://iptv.clun.top/football/8334149
-#EXTINF:-1 tvg-name="东南亚U19 印度尼西亚U19 vs 澳大利亚U19" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/f/c8bdf96ccd4faeab5087c45bd1da30af.png" group-title="足球",东南亚U19 印度尼西亚U19 vs 澳大利亚U19
-https://iptv.clun.top/football/8393670
-#EXTINF:-1 tvg-name="越南联 岘港龙 vs 芹苴鲶鱼" tvg-logo="https://resource.nj82wbp.top/data/resources/images/events/b/449789c2ab1c50d5bba635ff557ee1d5.png" group-title="篮球",越南联 岘港龙 vs 芹苴鲶鱼
-https://iptv.clun.top/basketball/8382645
-#EXTINF:-1 tvg-name="IEM科隆Major Vitality vs FUT" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fpd7mCsyb4khM7u3NWSwNvq_05id" group-title="电竞",IEM科隆Major Vitality vs FUT
-https://iptv.clun.top/esport/18961
-#EXTINF:-1 tvg-name="NODWIN Clutch SPARTA vs KOLESIE" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/FrUWbIbv2zondVl4zGrvyGFKbcoW" group-title="电竞",NODWIN Clutch SPARTA vs KOLESIE
-https://iptv.clun.top/esport/19026
-#EXTINF:-1 tvg-name="CCT 2026 欧洲 Bebop vs Oxuji" tvg-logo="https://esports-cdn.namitiyu.com/csgo/tournament/Fs-yd9Sc_qvK3sujzIoBmsQv8kTw" group-title="电竞",CCT 2026 欧洲 Bebop vs Oxuji
-https://iptv.clun.top/esport/19029
+https://iptv.clun.top/live/xinjiangws.m3u8?prefix=https://iptv.clun.top
