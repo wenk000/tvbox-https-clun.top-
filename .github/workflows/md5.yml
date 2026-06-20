@@ -44,9 +44,9 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           # Stage both js and jar md5 files
-          git add "**/*.js.md5" "**/*.jar.md5"
+          git add "*.js.md5" "*.jar.md5"
 
-          if ! git diff-index --quiet; then
+          if ! git diff-index --quiet HEAD; then
             git commit -m "Update md5"
             git push
             echo "::notice::MD5 files updated and pushed."
